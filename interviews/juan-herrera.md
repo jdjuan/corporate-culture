@@ -10,53 +10,65 @@
 
 ## Current Culture
 
-### HR
+### Rewards
 
-- Having someone pay because he/she is leaving food on their desks?
-- Recording desks in the nights with a camera to have evidence of the desks?
-- Having Jhon report every time someone put garbage in the wrong bing?
-- Fruits are sliced and given to the heads: Privilege given by authority, not results
+- Recruitment rewards referrals.
+- Fruits are sliced and given to the directors.
 
-> Charging people for doing things wrong or incentivizing people for doing things right
+### Punishment
 
-- Salary has never been paid late ever since I've got here. That gave a sense of punctuality and order.
-- At the same time I've been to countless meetings in which attendees arrive late or cancel at the very last minute. That gives me a sense that flexibility is one of Yuxi's core values.
-- It's not inconsistent. It's that Yuxi has come from a very dark storm in the sea, and we are all doing our best to create the best company ever. But we have reached a moment in which we need alignment. We need to stop sailing for a second, and define where want this boat to head. Otherwise, we'll just keep wandering and the storm will reach us sooner or later.
+- Employees have to pay for fumigation when you leave food on the desk.
+- Jhon Williams reporting every time someone put garbage in the wrong bin.
 
-### Upper Management
+### Salary Payment
 
-- I met Santiago because after 2 or 3 months of working at Yuxi because I approached his office and dare to introduce myself.
-- There's not a public organization chart that clarifies the responsabilities of each head.
-- There's no accoutability (rendición de cuentas) for what every head is doing for the company. And if there is, it's because gathers the whole organization together to do it in a random day.
+- Salary has never been paid late.
 
-### Authority
+### Meetings
 
-- Some authorities are very strict about their time and how open they are to people
-- At the same time we want to become leaders of knowledge and help others achieve it
-- At the same time there's no formal method to share the results we have achieved company-wise
+- There are countless meetings in which attendees arrive late or cancel at the very last minute.
+- The current system to book rooms is not very reliable resulting in people conflicts with times, booking, and rooms.
+- Meeting aren't always carefully planned, making others wait outside.
+- Rooms signage is inconsistent.
 
-The sum of all of these things make up our culture. As you can see some of those are independent.
-That's not bad, but having a consistent culture will make our company really stand out.
+### Eco Friendly
 
-### Specialized Services
+- A/C is turned on and off at different times in the day despite how hot or cold it is.
+- Monitors are left on often consuming energy.
+- Each area has an energy switch but there's no formal way to delegate a responsible.
 
-- When Fede and our team came up with the love boat, and with a different approach to doing business, what we really did, was again, coming up with our own way. With the way we believed things should be done. The journey, the recipes, the pyramid, all of that is a culture itself.
-- We imposed that culture and today we are doing business that way. If we have to describe I would say: "We are progressively leading our prospects to long-term relationships"
-- Is HR following the same culture with employees? Are we increasing our employee's loyalty one step at a time and throught a set of different steps?
+### Cleaning
 
-### Sales
+- Yuxians are supposed to be responsible for cleaning their dishes, but they don't.
+- There are regular cleaning sessions to keep desks clean.
 
-- How is Andres deciding what cients we want to approach? #Purpose
-- How are we approaching them? #Culture
-- What are we selling? #Strategy
+### Noise
+
+- People speak loud at the office.
+- Although areas like HR is often quiet.
+
+### Transparency
+
+- There's no accoutability (rendición de cuentas) for what every director/head is doing for the company. And if there is, it's because gathers the whole organization together to do it in a random day.
+- There's not a public organization chart that clarifies the responsabilities of each director.
+
+### Directors
+
+- There's no a formal way to meet the directors of the company. I only met Santiago after 2 or 3 months of working at Yuxi because I approached his office and dare to introduce myself.
+
+### Career
+
+- There's not a defined path to make a career in Yuxi (junio, mid, senior, architect, authority, etc.)
+
+### Clients
+
+- There's no schema that clearly defines what clients to take or reject
+
+### Directory
+
+- There's not a public directory of the employees of the company, their skills, and what project they are working on.
 
 ### Recruitment
 
-- Why we care so much about the people that we you have a "banca" meeting?
-- Are we vetting the recruitment process as strictly?
-- Who makes the final call? And how is that call made?
-- Searching people inside first, and then outside
-
-### Authorities
-
-- Our culture changed with the arrival of authorities and their participation in the company
+- There's not a defined or communicated strategy for people who leave a project and stay on the "Banca".
+- The recruitment process sometimes is skipped allowing others to make the final call.

@@ -1,4 +1,4 @@
-# Diagnosing the Culture
+# 2. Diagnosing the Culture
 
 > There is always a culture
 > There's no right or wrong culture. It is a matter of how we want to move towards the purpose defined

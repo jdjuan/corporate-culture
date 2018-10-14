@@ -1,4 +1,4 @@
-# Changing the Culture
+# 3. Changing the Culture
 
 - Start with the tribes
 - In our company the tribes we have are the teams we have.
