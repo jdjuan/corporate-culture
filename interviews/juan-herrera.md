@@ -49,8 +49,8 @@
 
 ### Transparency
 
-- There's no accoutability (rendición de cuentas) for what every director/head is doing for the company. And if there is, it's because gathers the whole organization together to do it in a random day.
-- There's not a public organization chart that clarifies the responsabilities of each director.
+- ⭐️ There's no accoutability (rendición de cuentas) for what every director/head is doing for the company. And if there is, it's because gathers the whole organization together to do it in a random day.
+- ⭐️ There's not a public organization chart that clarifies the responsabilities of each director.
 
 ### Directors
 
@@ -58,11 +58,11 @@
 
 ### Career
 
-- There's not a defined path to make a career in Yuxi (junio, mid, senior, architect, authority, etc.)
+- ⭐️ There's not a defined path to make a career in Yuxi (junio, mid, senior, architect, authority, etc.)
 
 ### Clients
 
-- There's no schema that clearly defines what clients to take or reject
+- ⭐️ There's no schema that clearly defines what clients to take or reject
 
 ### Directory
 
@@ -71,4 +71,4 @@
 ### Recruitment
 
 - There's not a defined or communicated strategy for people who leave a project and stay on the "Banca".
-- The recruitment process sometimes is skipped allowing others to make the final call.
+- ⭐️ The recruitment process sometimes is skipped allowing others to make the final call.
