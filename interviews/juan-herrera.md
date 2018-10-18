@@ -71,4 +71,4 @@
 ### Recruitment
 
 - There's not a defined or communicated strategy for people who leave a project and stay on the "Banca".
-- ⭐️ The recruitment process sometimes is skipped allowing others to make the final call.
+- ⭐️ \The recruitment process sometimes is skipped allowing others to make the final call.
